@@ -1,16 +1,38 @@
-# React + Vite
+# 🌐 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built using React to showcase projects, skills, and achievements.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Responsive design for all devices
+- Clean and modern UI
+- Projects showcase section
+- Skills and technologies display
+- Smooth navigation experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
-## React Compiler
+## 📂 Installation & Setup
+1. Clone the repository:
+   git clone https://github.com/neelamsahani1905/portfolio.git
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+2. Navigate to the project folder:
+   cd portfolio
 
-## Expanding the ESLint configuration
+3. Install dependencies:
+   npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4. Start the development server:
+   npm start
+
+## 📸 Usage
+- View projects and details
+- Explore skills and technologies
+- Navigate easily through sections
+
+## 🎯 Purpose
+This portfolio showcases my projects and technical skills for recruiters and demonstrates my frontend development abilities.
+
